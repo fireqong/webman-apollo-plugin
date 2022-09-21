@@ -1,0 +1,14 @@
+{
+  "name": "church/webman-apollo-plugin",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin church/webman-apollo-plugin",
+  "require": {
+    "church/apollo-client": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Church\\WebmanApolloPlugin\\": "src"
+    }
+  }
+}
